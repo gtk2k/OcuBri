@@ -1,0 +1,12 @@
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\OcuBri.exe.config
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\OcuBri.exe
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\OcuBri.pdb
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\websocket-sharp.dll
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.Properties.Resources.resources
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.csproj.GenerateResource.Cache
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.exe
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.pdb
+c:\users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.csprojResolveAssemblyReference.cache
+C:\Users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\obj\x64\Debug\OcuBri.MainForm.resources
+C:\Users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\gtk2k\documents\visual studio 2013\Projects\OcuBri\OcuBri\bin\x64\Debug\Newtonsoft.Json.xml
