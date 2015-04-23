@@ -16,4 +16,4 @@ Oculus Riftの拡張モード(Extend Desktop to the HMD)のみ対応していま
 * OperaやVivaldiはOculus用ウィンドウを生成してOculus Riftに移動させるというのが難しものとなっているため、この２つのブラウザーは現時点ではサポートから外しています。
 
 ##動作確認用サンプルページ
-[こちら](https://github.com/gtk2k/gtk2k.github.io)で動作確認用サンプルページを用意しました。
+[こちら](https://github.com/gtk2k/gtk2k.github.io)に動作確認用サンプルページを用意しました。
