@@ -12,5 +12,5 @@ Oculus Riftの拡張モード(Extend Desktop to the HMD)のみ対応していま
 * IE11やOpera、Vivaldiでも動作するように目指していたのですが、IE11ではWebGL自体はサポートしているのですがビデオテクスチャーがサポートされていません。ビデオテクスチャーを使用していないWebGLコンテンツなら大丈夫だと思いますが。
 * OperaやVivaldiはOculus用ウィンドウを生成してOculus Riftに移動させるというのが難しものとなっているため、この２つのブラウザーは現時点ではサポートから外しています。
 
-##サンプルページ
-[こちら](https://github.com/gtk2k/gtk2k.github.io)でサンプルを用意しました。
+##動作確認用サンプルページ
+[こちら](https://github.com/gtk2k/gtk2k.github.io)で動作確認用サンプルページを用意しました。
