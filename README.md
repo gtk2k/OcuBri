@@ -1,7 +1,10 @@
 # OcuBri
 `OcuBri`はフォークした[webvr-polyfill](https://github.com/gtk2k/webvr-polyfill)に追加したWebSocketBridgeHMDPositionSensorVRDevice用に作成したWebSocketブリッジアプリです。
-Oculus Riftの拡張モード(Extend Desktop to the HMD)のみ対応しています。  
-また、Win32Apiを使用しているため対応OSはWindowsのみとなります。
+
+##対応状況
+Oculus Riftの拡張モード(Extend Desktop to the HMD)のみ対応しています。    
+また、Win32Apiを使用しているため対応OSはWindowsのみとなります。  
+ブラウザーは安定版のみ対応しています。(OcuBri内部でレジストリからexeファイルのパスを取得しているため)
 
 ##特徴
 1. ブラウザーから接続されるとOculus Riftのユーザープロファイルを取得し、ブラウザーに送信します。
