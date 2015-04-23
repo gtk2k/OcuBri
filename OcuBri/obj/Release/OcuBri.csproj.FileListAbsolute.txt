@@ -1,0 +1,11 @@
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\OcuBri.exe.config
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\OcuBri.exe
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\OcuBri.pdb
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\Newtonsoft.Json.dll
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\websocket-sharp.dll
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\bin\Release\Newtonsoft.Json.xml
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\obj\Release\OcuBri.MainForm.resources
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\obj\Release\OcuBri.Properties.Resources.resources
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\obj\Release\OcuBri.csproj.GenerateResource.Cache
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\obj\Release\OcuBri.exe
+C:\Users\gtk2k\Documents\OcuBri\OcuBri\obj\Release\OcuBri.pdb
