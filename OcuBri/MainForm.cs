@@ -291,7 +291,7 @@ namespace OcuBri
                         // Oculus RiftのWebSocketのセッションが開始され(て)たらセンサー情報取得ステートに移行
                         rState = RunState.SendTracking;
                         // ループタイマーを(約)60fpsに変更
-                        loopTimer.Change(0, 14);
+                        loopTimer.Change(0, 16);
                         break;
                     }
                     break;
