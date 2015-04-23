@@ -12,6 +12,7 @@ Oculus Riftの拡張モード(Extend Desktop to the HMD)のみ対応していま
 2. WebVR APIと同様の使い勝手を目指して、ブラウザーからリクエストがくると、Oculus Riftのモニターの位置を取得し自動的にOculus Riftに表示されます。(ちょっと見てくれが悪いですが) 
 
 ##問題点
+* 遅延が激しいです。
 * OperaやVivaldiはOculus用ウィンドウを生成してOculus Riftに移動させるというのが難しものとなっているため、この２つのブラウザーは現時点ではサポートから外しています。
 
 ##動作確認用サンプルページ
